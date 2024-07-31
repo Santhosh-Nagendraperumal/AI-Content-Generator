@@ -11,6 +11,7 @@
     "db:studio":"drizzle-kit studio"
   },
   "dependencies": {
+    "@clerk/clerk-react": "^5.2.8",
     "@clerk/nextjs": "^5.2.4",
     "@google/generative-ai": "^0.15.0",
     "@neondatabase/serverless": "^0.9.4",
